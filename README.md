@@ -1,3 +1,4 @@
 # vue-pdf-viewer
 
-Just Test viewer pdf file with vue.js
+Example PDFTron.
+- https://docs.apryse.com/documentation/web/get-started/vue/
